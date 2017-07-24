@@ -1,3 +1,3 @@
-$("div").on("click", function() {
+$("div").on("mousedown", function() {
     $(this).css("background", "red");
 })
